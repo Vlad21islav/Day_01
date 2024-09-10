@@ -1,0 +1,2 @@
+ssh-keygen -t rsn
+cat /home/vmitk/.ssh/id_rsa.pub
